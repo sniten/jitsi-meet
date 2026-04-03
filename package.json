@@ -56,7 +56,7 @@
     "jwt-decode": "2.2.0",
     "lib-jitsi-meet": "github:jitsi/lib-jitsi-meet#74a90f703526ba3352174877ed822911bfc2cce7",
     "libflacjs": "github:mmig/libflac.js#93d37e7f811f01cf7d8b6a603e38bd3c3810907d",
-    "lodash": "4.17.21",
+    "lodash": "4.18.1",
     "moment": "2.29.1",
     "moment-duration-format": "2.2.2",
     "olm": "https://packages.matrix.org/npm/olm/olm-3.2.1.tgz",
